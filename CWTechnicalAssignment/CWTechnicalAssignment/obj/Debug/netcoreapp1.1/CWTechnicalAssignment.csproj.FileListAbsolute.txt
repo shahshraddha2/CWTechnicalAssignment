@@ -1,0 +1,15 @@
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\TechnicalExercise\obj\Debug\netcoreapp1.1\CWTechnicalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\TechnicalExercise\obj\Debug\netcoreapp1.1\CWTechnicalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\TechnicalExercise\obj\Debug\netcoreapp1.1\CWTechnicalAssignment.AssemblyInfoInputs.cache
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\TechnicalExercise\obj\Debug\netcoreapp1.1\CWTechnicalAssignment.AssemblyInfo.cs
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\bin\Debug\netcoreapp1.1\CWTechnicalAssignment.deps.json
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\bin\Debug\netcoreapp1.1\CWTechnicalAssignment.runtimeconfig.json
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\bin\Debug\netcoreapp1.1\CWTechnicalAssignment.runtimeconfig.dev.json
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\bin\Debug\netcoreapp1.1\CWTechnicalAssignment.dll
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\bin\Debug\netcoreapp1.1\CWTechnicalAssignment.pdb
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp1.1\CWTechnicalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp1.1\CWTechnicalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp1.1\CWTechnicalAssignment.AssemblyInfoInputs.cache
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp1.1\CWTechnicalAssignment.AssemblyInfo.cs
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp1.1\CWTechnicalAssignment.dll
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp1.1\CWTechnicalAssignment.pdb

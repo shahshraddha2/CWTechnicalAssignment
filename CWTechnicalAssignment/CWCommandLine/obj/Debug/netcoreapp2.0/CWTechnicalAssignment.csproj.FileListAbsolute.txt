@@ -1,0 +1,11 @@
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\bin\Debug\netcoreapp2.0\CWTechnicalAssignment.deps.json
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\bin\Debug\netcoreapp2.0\CWTechnicalAssignment.runtimeconfig.json
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\bin\Debug\netcoreapp2.0\CWTechnicalAssignment.runtimeconfig.dev.json
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\bin\Debug\netcoreapp2.0\CWTechnicalAssignment.dll
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp2.0\CWTechnicalAssignment.csprojResolveAssemblyReference.cache
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp2.0\CWTechnicalAssignment.csproj.CoreCompileInputs.cache
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp2.0\CWTechnicalAssignment.AssemblyInfoInputs.cache
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp2.0\CWTechnicalAssignment.AssemblyInfo.cs
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\bin\Debug\netcoreapp2.0\CWTechnicalAssignment.pdb
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp2.0\CWTechnicalAssignment.dll
+c:\users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignment\obj\Debug\netcoreapp2.0\CWTechnicalAssignment.pdb

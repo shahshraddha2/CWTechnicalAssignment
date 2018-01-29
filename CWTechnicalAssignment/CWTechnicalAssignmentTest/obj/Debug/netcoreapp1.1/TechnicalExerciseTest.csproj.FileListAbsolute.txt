@@ -1,0 +1,15 @@
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\bin\Debug\netcoreapp1.1\TechnicalExerciseTest.deps.json
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\bin\Debug\netcoreapp1.1\TechnicalExerciseTest.runtimeconfig.json
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\bin\Debug\netcoreapp1.1\TechnicalExerciseTest.runtimeconfig.dev.json
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\bin\Debug\netcoreapp1.1\TechnicalExerciseTest.dll
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\bin\Debug\netcoreapp1.1\TechnicalExerciseTest.pdb
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\obj\Debug\netcoreapp1.1\TechnicalExerciseTest.csprojResolveAssemblyReference.cache
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\obj\Debug\netcoreapp1.1\TechnicalExerciseTest.csproj.CoreCompileInputs.cache
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\obj\Debug\netcoreapp1.1\TechnicalExerciseTest.AssemblyInfo.cs
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\obj\Debug\netcoreapp1.1\TechnicalExerciseTest.dll
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\obj\Debug\netcoreapp1.1\TechnicalExerciseTest.pdb
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\bin\Debug\netcoreapp1.1\TechnicalExercise.dll
+C:\Dev\Test\TechnicalExercise\TechnicalExerciseTest\bin\Debug\netcoreapp1.1\TechnicalExercise.pdb

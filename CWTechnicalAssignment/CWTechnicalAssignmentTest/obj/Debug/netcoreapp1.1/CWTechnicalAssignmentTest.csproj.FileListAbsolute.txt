@@ -1,0 +1,16 @@
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\bin\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.deps.json
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\bin\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.runtimeconfig.json
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\bin\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.runtimeconfig.dev.json
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\bin\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.dll
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\bin\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.pdb
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\bin\Debug\netcoreapp1.1\CWTechnicalAssignment.dll
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\bin\Debug\netcoreapp1.1\CWTechnicalAssignment.pdb
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\obj\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.csprojResolveAssemblyReference.cache
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\obj\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.csproj.CoreCompileInputs.cache
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\obj\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.AssemblyInfoInputs.cache
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\obj\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.AssemblyInfo.cs
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\obj\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.dll
+C:\Users\shraddha\source\repos\CWTechnicalAssignment\CWTechnicalAssignmentTest\obj\Debug\netcoreapp1.1\CWTechnicalAssignmentTest.pdb
